@@ -146,6 +146,46 @@ footer p {
   height: 30px;
   width: 100%;
 }
-.table_1 {
+/* .table_1 {
   border: 1px solid black;
+} */
+table {
+  border: 3px solid black;
+  margin: auto;
+  margin-top: 30px;
+  padding: 5px;
+  font-size: 25px;
+}
+tr {
+  border: 3px solid black;
+  padding: 3px;
+}
+td {
+  border: 3px solid black;
+  padding: 3px;
+}
+.table_header {
+  background-color: #157323;
+}
+.table_cities {
+  background-color: #375c3d;
+  text-align: center;
+}
+.table_days {
+  background-color: darkgray;
+  font-size: 20px;
+}
+.table_time {
+  background-color: #c5d1c6;
+  font-size: 20px;
+  text-align: center;
+}
+.table_phone {
+  background-color: #e4ede5;
+}
+.table_phone a {
+  color: #000000;
+  font-size: 25px;
+  display: block;
+  text-align: center;
 }
