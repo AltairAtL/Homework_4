@@ -40,3 +40,13 @@ article img {
 .color_p {
   color: blue;
 }
+.button {
+  border: 3px solid black;
+  font-size: 40px;
+  padding: 5px;
+  margin-left: 45%;
+  border-radius: 15px;
+  color: white;
+  background-color: blue;
+  text-decoration: none;
+}
